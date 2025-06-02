@@ -4,12 +4,6 @@ Este é um projeto desenvolvido com HTML, CSS e JavaScript para celebrar e divul
 ## Sobre a Festa Junina
 A Festa Junina é uma celebração tradicional que une elementos da cultura do campo e da cidade. Surgiu na Europa e foi trazida para o Brasil pelos portugueses, misturando-se com as tradições indígenas e africanas, resultando em uma festa rica em cores, sabores e danças.
 
-## Funcionalidades do site
-.Informações sobre a história da festa.
-.Galeria de imagens temáticas.
-.Curiosidades sobre as tradições juninas.
-.Formulário de contato.
-
 ## Curiosidades sobre a Festa Junina
 .A fogueira simboliza proteção e celebração.
 .A quadrilha tem origem nas danças francesas.
